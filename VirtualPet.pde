@@ -43,7 +43,7 @@ triangle(720,235,625,275,695,335);
 //whiskers!
 noFill();
 stroke(0);
+strokeWeight(12);  // Thick
 arc(415,580,150,100,0,PI); //left
 arc(565,580,150,100,0,PI); //right
-
 }
