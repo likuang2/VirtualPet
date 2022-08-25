@@ -3,7 +3,7 @@ void setup()
 {
   size(1000,1000);
 }
-void draw() {
+//void draw() {
   //System.out.print(mouseX + " ");
   //System.out.println(mouseY);
 fill(242, 140, 40); //orange
