@@ -1,9 +1,9 @@
 //this shows the corrdinates of where I am currently pointing to to better help me find where to put my shapes
-//void setup()
+void setup()
 {
   size(1000,1000);
 }
-//void draw() {
+void draw() {
   //System.out.print(mouseX + " ");
   //System.out.println(mouseY);
 fill(242, 140, 40); //orange
