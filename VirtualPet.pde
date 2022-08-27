@@ -1,5 +1,5 @@
 //this shows the corrdinates of where I am currently pointing to to better help me find where to put my shapes
-void setup()
+//void setup()
 {
   size(1000,1000);
 }
